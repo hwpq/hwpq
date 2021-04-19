@@ -3,16 +3,16 @@
 <p align="center">
   <samp>
   <a href="https://discord.gg/UTxFPNVnnB">
-  <img width="16px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111310.svg?token=exp=1618844711~hmac=562af6e4880587150166ac02585ab8f4" />
+  <img  alt="Ohidur N Friends Discord Server" width="16px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111310.svg?token=exp=1618844711~hmac=562af6e4880587150166ac02585ab8f4" />
 </a>
 <a href="https://twitter.com/r_gl">
-  <img width="16px" src="https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1618844781~hmac=720267bca1abcb5c33029c6f901730c5" />
+  <img  alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1618844781~hmac=720267bca1abcb5c33029c6f901730c5" />
 </a>
 <a href="https://github.com/hwpq">
-  <img width="16px" src="https://www.flaticon.com/svg/vstatic/svg/270/270798.svg?token=exp=1618844875~hmac=6b4b556827768de3aa27127609419bbe" />
+  <img  alt="Ohidur Rahman Bappy's Github" width="16px" src="https://www.flaticon.com/svg/vstatic/svg/270/270798.svg?token=exp=1618844875~hmac=6b4b556827768de3aa27127609419bbe" />
 </a>
 <a href="https://instagram.com/hwpq/">
-  <img width="16px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1618844917~hmac=1c951b9be4586208ef6521b84b971e2b" />
+  <img  alt="Ohidur Rahman Bappy's Instagram" width="16px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1618844917~hmac=1c951b9be4586208ef6521b84b971e2b" />
   </samp>
   
   <br>
