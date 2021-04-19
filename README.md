@@ -3,16 +3,16 @@
 <p align="center">
   <samp>
   <a href="https://discord.gg/UTxFPNVnnB">
-  <img  alt="Ohidur N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img  alt="Ohidur N Friends Discord Server" width="16px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111310.svg?token=exp=1618844711~hmac=562af6e4880587150166ac02585ab8f4" />
 </a>
 <a href="https://twitter.com/r_gl">
-  <img  alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img  alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1618844781~hmac=720267bca1abcb5c33029c6f901730c5" />
 </a>
 <a href="https://github.com/hwpq">
-  <img  alt="Ohidur Rahman Bappy's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img  alt="Ohidur Rahman Bappy's Github" width="16px" src="https://www.flaticon.com/svg/vstatic/svg/270/270798.svg?token=exp=1618844875~hmac=6b4b556827768de3aa27127609419bbe" />
 </a>
 <a href="https://instagram.com/hwpq/">
-  <img  alt="Ohidur Rahman Bappy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img  alt="Ohidur Rahman Bappy's Instagram" width="16px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1618844917~hmac=1c951b9be4586208ef6521b84b971e2b" />
   </samp>
   
   <br>
@@ -23,12 +23,12 @@
 </p>
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hwpq&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
 </p>
  
  
 <h2 align="center">:zap: Languages Used </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwpq&layout=compact&bg_color=ffffff&text_color=333333">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwpq&show_icons=true&theme=radical">
 </p>
 <br/>
