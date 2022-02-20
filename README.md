@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-  <a href="https://discord.gg/UTxFPNVnnB">
+  <a href="https://discord.com/invite/MWbFy683x5">
   <img  alt="Ohidur N Friends Discord Server" width="28px" src="https://img.icons8.com/plasticine/100/000000/discord-new-logo.png" />
 </a>
 <a href="https://twitter.com/r_gl">
