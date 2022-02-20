@@ -8,9 +8,6 @@
 <a href="https://twitter.com/r_gl">
   <img  alt="Ohidur Rahman Bappy's Twitter" width="28px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />
 </a>
-<a href="https://github.com/hwpq">
-  <img  alt="Ohidur Rahman Bappy's Github" width="28px" src="https://img.icons8.com/nolan/64/github.png" />
-</a>
 <a href="https://instagram.com/hwpq/">
   <img  alt="Ohidur Rahman Bappy's Instagram" width="28px" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" />
   </samp>
